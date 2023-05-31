@@ -54,12 +54,12 @@ a=b=c=10
 #
 
 
-# a = 11
-# b = 2
+a = 11
+b = 2
 # # a += 1
 # # a = a + 1
 #
-# print(a + b)
+print(a + b)
 # print(a - b)
 # print(a * b)
 # print(a / b)
@@ -68,9 +68,12 @@ a=b=c=10
 # print(2525 ** 2525)
 # print(3 % 2)
 
-# name = input('Enter your name: ')
-#
-# print(name)
+
+
+name = input('Enter your name: ')
+
+print(name)
+
 
 # a = 2
 # b = 3
@@ -85,6 +88,7 @@ a=b=c=10
 # res = isinstance(a, str)
 #
 # print(res)
+
 
 # num = input('Enter num: ')
 # num = int(num)
