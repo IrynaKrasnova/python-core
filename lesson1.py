@@ -30,7 +30,7 @@ i = 3
 f = 1.3
 # b = True  # False
 s = "text"  # 'text'
-# n = None
+n = None
 #
 print(type(i))
 
@@ -39,7 +39,7 @@ print(type(f))
 # print(type(f))
 # print(type(b))
 print(type(s))
-# print(type(n))
+print(type(n))
 
 a=b=c=10
 
